@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Small Chat Web using ReactJS, HTML, CSS, Firebase (Firebase issue caused by lack of funding)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
